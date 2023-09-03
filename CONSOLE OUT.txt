@@ -1,0 +1,543 @@
+Round 1: Gabriel's turn
+Gabriel drew a card:
+3 of Clubs
+Round 1: Gabriella's turn
+Gabriella drew a card:
+8 of Diamonds
+Comparing cards...
+3
+8
+Gabriella: is the winner of this round
+Round 2: Gabriel's turn
+Gabriel drew a card:
+Ace of Spades
+Round 2: Gabriella's turn
+Gabriella drew a card:
+10 of Diamonds
+Comparing cards...
+Ace
+10
+Gabriel: is the winner of this round
+Round 3: Gabriel's turn
+Gabriel drew a card:
+9 of Hearts
+Round 3: Gabriella's turn
+Gabriella drew a card:
+Jack of Diamonds
+Comparing cards...
+9
+Jack
+Gabriella: is the winner of this round
+Round 4: Gabriel's turn
+Gabriel drew a card:
+3 of Diamonds
+Round 4: Gabriella's turn
+Gabriella drew a card:
+9 of Diamonds
+Comparing cards...
+3
+9
+Gabriella: is the winner of this round
+Round 5: Gabriel's turn
+Gabriel drew a card:
+King of Clubs
+Round 5: Gabriella's turn
+Gabriella drew a card:
+10 of Clubs
+Comparing cards...
+King
+10
+Gabriel: is the winner of this round
+Round 6: Gabriel's turn
+Gabriel drew a card:
+5 of Spades
+Round 6: Gabriella's turn
+Gabriella drew a card:
+4 of Diamonds
+Comparing cards...
+5
+4
+Gabriel: is the winner of this round
+Round 7: Gabriel's turn
+Gabriel drew a card:
+2 of Hearts
+Round 7: Gabriella's turn
+Gabriella drew a card:
+9 of Clubs
+Comparing cards...
+2
+9
+Gabriella: is the winner of this round
+Round 8: Gabriel's turn
+Gabriel drew a card:
+King of Hearts
+Round 8: Gabriella's turn
+Gabriella drew a card:
+4 of Hearts
+Comparing cards...
+King
+4
+Gabriel: is the winner of this round
+Round 9: Gabriel's turn
+Gabriel drew a card:
+7 of Hearts
+Round 9: Gabriella's turn
+Gabriella drew a card:
+7 of Clubs
+Comparing cards...
+7
+7
+Gabriel: is the winner of this round
+Round 10: Gabriel's turn
+Gabriel drew a card:
+6 of Spades
+Round 10: Gabriella's turn
+Gabriella drew a card:
+2 of Spades
+Comparing cards...
+6
+2
+Gabriel: is the winner of this round
+Round 11: Gabriel's turn
+Gabriel drew a card:
+7 of Diamonds
+Round 11: Gabriella's turn
+Gabriella drew a card:
+8 of Hearts
+Comparing cards...
+7
+8
+Gabriella: is the winner of this round
+Round 12: Gabriel's turn
+Gabriel drew a card:
+2 of Diamonds
+Round 12: Gabriella's turn
+Gabriella drew a card:
+Ace of Hearts
+Comparing cards...
+2
+Ace
+Gabriella: is the winner of this round
+Round 13: Gabriel's turn
+Gabriel drew a card:
+10 of Spades
+Round 13: Gabriella's turn
+Gabriella drew a card:
+8 of Spades
+Comparing cards...
+10
+8
+Gabriel: is the winner of this round
+Round 14: Gabriel's turn
+Gabriel drew a card:
+Jack of Spades
+Round 14: Gabriella's turn
+Gabriella drew a card:
+Queen of Diamonds
+Comparing cards...
+Jack
+Queen
+Gabriella: is the winner of this round
+Round 15: Gabriel's turn
+Gabriel drew a card:
+4 of Clubs
+Round 15: Gabriella's turn
+Gabriella drew a card:
+5 of Diamonds
+Comparing cards...
+4
+5
+Gabriella: is the winner of this round
+Round 16: Gabriel's turn
+Gabriel drew a card:
+3 of Spades
+Round 16: Gabriella's turn
+Gabriella drew a card:
+9 of Spades
+Comparing cards...
+3
+9
+Gabriella: is the winner of this round
+Round 17: Gabriel's turn
+Gabriel drew a card:
+Ace of Diamonds
+Round 17: Gabriella's turn
+Gabriella drew a card:
+Jack of Clubs
+Comparing cards...
+Ace
+Jack
+Gabriel: is the winner of this round
+Round 18: Gabriel's turn
+Gabriel drew a card:
+10 of Hearts
+Round 18: Gabriella's turn
+Gabriella drew a card:
+2 of Clubs
+Comparing cards...
+10
+2
+Gabriel: is the winner of this round
+Round 19: Gabriel's turn
+Gabriel drew a card:
+Ace of Clubs
+Round 19: Gabriella's turn
+Gabriella drew a card:
+3 of Hearts
+Comparing cards...
+Ace
+3
+Gabriel: is the winner of this round
+Round 20: Gabriel's turn
+Gabriel drew a card:
+6 of Diamonds
+Round 20: Gabriella's turn
+Gabriella drew a card:
+7 of Spades
+Comparing cards...
+6
+7
+Gabriella: is the winner of this round
+Round 21: Gabriel's turn
+Gabriel drew a card:
+Queen of Hearts
+Round 21: Gabriella's turn
+Gabriella drew a card:
+Queen of Spades
+Comparing cards...
+Queen
+Queen
+Gabriel: is the winner of this round
+Round 22: Gabriel's turn
+Gabriel drew a card:
+8 of Clubs
+Round 22: Gabriella's turn
+Gabriella drew a card:
+6 of Clubs
+Comparing cards...
+8
+6
+Gabriel: is the winner of this round
+Round 23: Gabriel's turn
+Gabriel drew a card:
+5 of Hearts
+Round 23: Gabriella's turn
+Gabriella drew a card:
+Jack of Hearts
+Comparing cards...
+5
+Jack
+Gabriella: is the winner of this round
+Round 24: Gabriel's turn
+Gabriel drew a card:
+Queen of Clubs
+Round 24: Gabriella's turn
+Gabriella drew a card:
+King of Spades
+Comparing cards...
+Queen
+King
+Gabriella: is the winner of this round
+Round 25: Gabriel's turn
+Gabriel drew a card:
+King of Diamonds
+Round 25: Gabriella's turn
+Gabriella drew a card:
+6 of Hearts
+Comparing cards...
+King
+6
+Gabriel: is the winner of this round
+Round 26: Gabriel's turn
+Gabriel drew a card:
+5 of Clubs
+Round 26: Gabriella's turn
+Gabriella drew a card:
+4 of Spades
+Comparing cards...
+5
+4
+Gabriel: is the winner of this round
+Retrieving final scores....
+Gabriel's FINAL SCORE: 14
+Gabriella's FINAL SCORE: 12
+We have a WINNER!!!
+Gabriel is the winner with a score of: 14
+Thank you for playing!
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+WHAT IF THERE WAS A DRAW??
+
+Round 1: Gabriel's turn
+Gabriel drew a card:
+7 of Hearts
+Round 1: Gabriella's turn
+Gabriella drew a card:
+6 of Clubs
+Comparing cards...
+7
+6
+Gabriel: is the winner of this round
+Round 2: Gabriel's turn
+Gabriel drew a card:
+3 of Spades
+Round 2: Gabriella's turn
+Gabriella drew a card:
+7 of Clubs
+Comparing cards...
+3
+7
+Gabriella: is the winner of this round
+Round 3: Gabriel's turn
+Gabriel drew a card:
+8 of Diamonds
+Round 3: Gabriella's turn
+Gabriella drew a card:
+9 of Clubs
+Comparing cards...
+8
+9
+Gabriella: is the winner of this round
+Round 4: Gabriel's turn
+Gabriel drew a card:
+5 of Hearts
+Round 4: Gabriella's turn
+Gabriella drew a card:
+9 of Diamonds
+Comparing cards...
+5
+9
+Gabriella: is the winner of this round
+Round 5: Gabriel's turn
+Gabriel drew a card:
+Queen of Spades
+Round 5: Gabriella's turn
+Gabriella drew a card:
+King of Clubs
+Comparing cards...
+Queen
+King
+Gabriella: is the winner of this round
+Round 6: Gabriel's turn
+Gabriel drew a card:
+9 of Hearts
+Round 6: Gabriella's turn
+Gabriella drew a card:
+Jack of Clubs
+Comparing cards...
+9
+Jack
+Gabriella: is the winner of this round
+Round 7: Gabriel's turn
+Gabriel drew a card:
+8 of Spades
+Round 7: Gabriella's turn
+Gabriella drew a card:
+4 of Hearts
+Comparing cards...
+8
+4
+Gabriel: is the winner of this round
+Round 8: Gabriel's turn
+Gabriel drew a card:
+4 of Clubs
+Round 8: Gabriella's turn
+Gabriella drew a card:
+5 of Spades
+Comparing cards...
+4
+5
+Gabriella: is the winner of this round
+Round 9: Gabriel's turn
+Gabriel drew a card:
+2 of Clubs
+Round 9: Gabriella's turn
+Gabriella drew a card:
+Ace of Diamonds
+Comparing cards...
+2
+Ace
+Gabriella: is the winner of this round
+Round 10: Gabriel's turn
+Gabriel drew a card:
+King of Hearts
+Round 10: Gabriella's turn
+Gabriella drew a card:
+King of Diamonds
+Comparing cards...
+King
+King
+Gabriel: is the winner of this round
+Round 11: Gabriel's turn
+Gabriel drew a card:
+10 of Diamonds
+Round 11: Gabriella's turn
+Gabriella drew a card:
+King of Spades
+Comparing cards...
+10
+King
+Gabriella: is the winner of this round
+Round 12: Gabriel's turn
+Gabriel drew a card:
+10 of Spades
+Round 12: Gabriella's turn
+Gabriella drew a card:
+2 of Spades
+Comparing cards...
+10
+2
+Gabriel: is the winner of this round
+Round 13: Gabriel's turn
+Gabriel drew a card:
+Jack of Spades
+Round 13: Gabriella's turn
+Gabriella drew a card:
+Jack of Diamonds
+Comparing cards...
+Jack
+Jack
+Gabriel: is the winner of this round
+Round 14: Gabriel's turn
+Gabriel drew a card:
+6 of Hearts
+Round 14: Gabriella's turn
+Gabriella drew a card:
+2 of Diamonds
+Comparing cards...
+6
+2
+Gabriel: is the winner of this round
+Round 15: Gabriel's turn
+Gabriel drew a card:
+3 of Diamonds
+Round 15: Gabriella's turn
+Gabriella drew a card:
+6 of Spades
+Comparing cards...
+3
+6
+Gabriella: is the winner of this round
+Round 16: Gabriel's turn
+Gabriel drew a card:
+Queen of Hearts
+Round 16: Gabriella's turn
+Gabriella drew a card:
+9 of Spades
+Comparing cards...
+Queen
+9
+Gabriel: is the winner of this round
+Round 17: Gabriel's turn
+Gabriel drew a card:
+2 of Hearts
+Round 17: Gabriella's turn
+Gabriella drew a card:
+8 of Hearts
+Comparing cards...
+2
+8
+Gabriella: is the winner of this round
+Round 18: Gabriel's turn
+Gabriel drew a card:
+10 of Hearts
+Round 18: Gabriella's turn
+Gabriella drew a card:
+7 of Diamonds
+Comparing cards...
+10
+7
+Gabriel: is the winner of this round
+Round 19: Gabriel's turn
+Gabriel drew a card:
+Queen of Diamonds
+Round 19: Gabriella's turn
+Gabriella drew a card:
+Ace of Spades
+Comparing cards...
+Queen
+Ace
+Gabriella: is the winner of this round
+Round 20: Gabriel's turn
+Gabriel drew a card:
+7 of Spades
+Round 20: Gabriella's turn
+Gabriella drew a card:
+3 of Hearts
+Comparing cards...
+7
+3
+Gabriel: is the winner of this round
+Round 21: Gabriel's turn
+Gabriel drew a card:
+5 of Diamonds
+Round 21: Gabriella's turn
+Gabriella drew a card:
+Ace of Clubs
+Comparing cards...
+5
+Ace
+Gabriella: is the winner of this round
+Round 22: Gabriel's turn
+Gabriel drew a card:
+3 of Clubs
+Round 22: Gabriella's turn
+Gabriella drew a card:
+Queen of Clubs
+Comparing cards...
+3
+Queen
+Gabriella: is the winner of this round
+Round 23: Gabriel's turn
+Gabriel drew a card:
+10 of Clubs
+Round 23: Gabriella's turn
+Gabriella drew a card:
+5 of Clubs
+Comparing cards...
+10
+5
+Gabriel: is the winner of this round
+Round 24: Gabriel's turn
+Gabriel drew a card:
+Ace of Hearts
+Round 24: Gabriella's turn
+Gabriella drew a card:
+4 of Diamonds
+Comparing cards...
+Ace
+4
+Gabriel: is the winner of this round
+Round 25: Gabriel's turn
+Gabriel drew a card:
+8 of Clubs
+Round 25: Gabriella's turn
+Gabriella drew a card:
+4 of Spades
+Comparing cards...
+8
+4
+Gabriel: is the winner of this round
+Round 26: Gabriel's turn
+Gabriel drew a card:
+Jack of Hearts
+Round 26: Gabriella's turn
+Gabriella drew a card:
+6 of Diamonds
+Comparing cards...
+Jack
+6
+Gabriel: is the winner of this round
+Retrieving final scores....
+Gabriel's FINAL SCORE: 13
+Gabriella's FINAL SCORE: 13
+No winner found. It's a tie!
+Thank you for playing!
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
